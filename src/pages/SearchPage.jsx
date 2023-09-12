@@ -18,7 +18,6 @@ export const SearchPage = ( ) => {
     //--------------------------------
     return  (
         <>
-        <p>estoy en Search Page</p>
         <div className="container">
             <p className="p-search">
                 Se encontraron <span>{filteredPokemons.length}</span> {''} resultados:
