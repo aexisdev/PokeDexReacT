@@ -36,7 +36,7 @@ export const Navigation = () => {
                      stroke="currentColor"
                      className="icon-search"
                   >
-
+                     
                   <path
                      strokeLinecap="round"
                      strokeLinejoin="round"

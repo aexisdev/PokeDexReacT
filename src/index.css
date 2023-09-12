@@ -59,7 +59,7 @@ header{
 
 /* estilos del logo  */
 .logo img{
-    width: 150px;
+    width: 170px;
 }
 
 /* estilos del form  */
@@ -144,10 +144,12 @@ header form{
 .card-pokemon{
     cursor: pointer;
     text-decoration: none;
+    background-color: #E2FDFF;
+    border-radius: 10px;
 }
 /* estilos al contenedor de las imagenes de las cartas */
 .card-img{
-    background-color: #f2f2f2;
+    background-color: #BFD7FF;
 
     display: flex;
     align-items: center;
